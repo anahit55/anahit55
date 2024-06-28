@@ -51,9 +51,11 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="30" height="30"/>
     <!-- Three.js -->
 <img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="30" height="30"/>
-    <!-- Vue -->
-<img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="30" height="30"/>
-</div>
+   <!-- Vue.js -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="30" height="30">
+  <path fill="#4FC08D" d="M0 0h110v110H0zm0 145h110v110H0zm145 0h110v110H145zm0-145h110v110H145z"/>
+</svg>
+
 
 
 
