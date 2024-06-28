@@ -17,5 +17,25 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 
 - Commitment to Quality: Whether it's backend architecture or frontend design, I prioritize quality and user-centricity to deliver exceptional digital solutions.
 
+<!-- React -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
+
+<!-- Angular -->
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/>
+
+<!-- Vue.js -->
+<img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="30" height="30"/>
+
+<!-- JavaScript -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30"/>
+
+<!-- Node.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" height="30"/>
+
+<!-- Express.js -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="30" height="30"/>
+
+<!-- MySQL -->
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="30" height="30"/>
 
 Let's collaborate and turn your ideas into reality with cutting-edge technology and a commitment to success!
