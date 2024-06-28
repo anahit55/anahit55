@@ -25,8 +25,6 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;"> 
     <!-- Angular -->
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/>
-    <!-- Firebase -->
-<img src="https://www.gstatic.com/devrel-devsite/prod/v45a251b32481f5655b7309fd82d26f2be66649c28728e544c5f7b937c0b0c2f2/firebase/images/touchicon-180.png" alt="Firebase" width="30" height="30"/>
     <!-- Heroku -->
 <img src="https://www.herokucdn.com/favicon.ico" alt="Heroku" width="30" height="30"/>
     <!-- JavaScript (JS) -->
