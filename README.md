@@ -20,7 +20,7 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 
 - Commitment to Quality: Whether it's backend architecture or frontend design, I prioritize quality and user-centricity to deliver exceptional digital solutions.
 
-## Lnaguages and Tools I use
+## Languages and Tools I use
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
     <!-- React -->
@@ -36,5 +36,7 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <!-- MySQL -->
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="30" height="30"/>
 </div>
+
+
 
 Let's collaborate and turn your ideas into reality with cutting-edge technology and a commitment to success!
