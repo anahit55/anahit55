@@ -45,15 +45,13 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="30" height="30"/>
     <!-- Ruby -->
 <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby" width="30" height="30"/>
-    <!-- Sass -->
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Sass" width="30" height="30"/>
     <!-- Supabase -->
 <img src="https://avatars.githubusercontent.com/u/61245855?s=200&v=4" alt="Supabase" width="30" height="30"/>
     <!-- Tailwind CSS -->
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="30" height="30"/>
     <!-- Three.js -->
 <img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="30" height="30"/>
-    <!-- Vue.js -->
+    <!-- Vue -->
 <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="30" height="30"/>
 </div>
 
