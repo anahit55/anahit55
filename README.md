@@ -37,12 +37,8 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="30" height="30"/>
     <!-- Nest.js -->
 <img src="https://nestjs.com/img/logo_text.svg" alt="Nest.js" width="30" height="30"/>
-    <!-- Next.js -->
-<img src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js-logo.png" alt="Next.js" width="30" height="30"/>
     <!-- Node.js -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" height="30"/>
-    <!-- Nuxt.js -->
-<img src="https://nuxtjs.org/logos/nuxt-icon.png" alt="Nuxt.js" width="30" height="30"/>
     <!-- React -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
     <!-- Redux -->
