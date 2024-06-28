@@ -1,4 +1,4 @@
-# Hi, I'm <Anahit>! 👋
+# Hi, I'm Anahit! 👋
 
 I am a dedicated full stack developer with a passion for creating seamless digital experiences. I thrive on building and scaling robust backend architectures while ensuring pixel-perfect frontend designs that elevate user interaction.
 
