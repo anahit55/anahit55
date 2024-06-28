@@ -23,7 +23,7 @@ I am a dedicated full stack developer with a passion for creating seamless digit
  <!-- Angular -->
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/>
  <!-- Vue.js -->
-    <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="30" height="30"/>
+   <img src="https://vuejs.org/images/logo.svg" alt="Vue.js" width="30" height="30"/>
  <!-- JavaScript -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30"/>
 <!-- Node.js -->
