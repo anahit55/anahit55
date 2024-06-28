@@ -43,20 +43,15 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
     <!-- Redux -->
 <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="30" height="30"/>
-    <!-- Ruby -->
-<img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby" width="30" height="30"/>
     <!-- Supabase -->
 <img src="https://avatars.githubusercontent.com/u/61245855?s=200&v=4" alt="Supabase" width="30" height="30"/>
     <!-- Tailwind CSS -->
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="30" height="30"/>
     <!-- Three.js -->
 <img src="https://threejs.org/files/favicon.ico" alt="Three.js" width="30" height="30"/>
-   <!-- Vue.js -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="30" height="30">
-  <path fill="#4FC08D" d="M0 0h110v110H0zm0 145h110v110H0zm145 0h110v110H145zm0-145h110v110H145z"/>
-</svg>
-
-
+   <!-- Vue.js Inline SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="30" height="30">
+  <path d="M512 0C229.25 0 0 229.25 0 512s229.25 512 512 512 512-229.25 512-512S794.75 0 512 0zM765.75 578.75L515.5 828.125c-17.375 17.375-45.25 17.375-62.625 0L258.25 578.75c-17.375-17.375-17.375-45.25 0-62.625l250.25-250.25c17.375-17.375 45.25-17.375 62.625 0l250.25 250.25C783.125 533.5 783.125 
 
 
 
