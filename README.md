@@ -41,8 +41,6 @@ I am a dedicated full stack developer with a passion for creating seamless digit
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" height="30"/>
     <!-- React -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="30" height="30"/>
-    <!-- Supabase -->
-<img src="https://avatars.githubusercontent.com/u/61245855?s=200&v=4" alt="Supabase" width="30" height="30"/>
     <!-- Tailwind CSS -->
 <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="30" height="30"/>
     <!-- Three.js -->
